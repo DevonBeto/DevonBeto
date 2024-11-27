@@ -14,6 +14,25 @@ Atualmente, estou ampliando meus conhecimentos em **Machine Learning** e **Trata
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- **Pós-Graduação em Ciências de Dados e Inteligência Artificial**  
+  *Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)*  
+  Principais tópicos: Algoritmos, Estruturas de Dados, Machine Learning e Estatística.  
+  *(Concluído)*
+
+- **Graduação em Análise e Desenvolvimento de Sistemas**  
+  *Faculdade Claretiano*  
+  Principais tópicos: Desenvolvimento de Software, Banco de Dados e Lógica de Programação.  
+  *(Concluído)*
+
+- **Formação em Análise de Dados**  
+  *Xperium*  
+  Principais tópicos: Power BI Intermediário, SQL e Python, com aprofundamento em Visualização de Dados, Estatística e Machine Learning Básico.  
+  *(Em andamento, previsão de conclusão em 7 meses)*
+
+---
+
 ## 🚀 Competências e Ferramentas
 
 - **Análise de Dados:** Power BI, PostgreSQL, Python, Power Query  
